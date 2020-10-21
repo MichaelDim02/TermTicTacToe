@@ -97,9 +97,7 @@ void check()
 	} else {
 		over = false;
 	}
-} 
-// ^^^^^ LINE 100 ^^^^ 
-// Made by MCD. DO NOT enter string or char values in the game it might crush your terminal
+}
 
 
 
