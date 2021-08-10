@@ -1,8 +1,8 @@
-/* TermTicTacToe
+/*   TermTicTacToe
  * 
- * This is the (arguably superior
- * C version of the program. It's updated
- * and cleaner.
+ *  This is the (arguably superior
+ *  C version of the program. It's updated
+ *  and cleaner.
  */
 
 #include <stdlib.h>
