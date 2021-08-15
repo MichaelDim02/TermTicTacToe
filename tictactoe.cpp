@@ -1,7 +1,11 @@
+/* This is an admittedly worse version of the C vesion */
+
 #include <stdlib.h>
 #include <iostream>
 #include <stdio.h>
 #include <unistd.h>
+
+
 char square[10] = {'0','1','2','3','4','5','6','7','8','9'};
 char over = false;
 
